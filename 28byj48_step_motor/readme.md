@@ -3,7 +3,7 @@
 
 **Megvalósítás:**
 
-![kapcsolási rajz](Schematic_esp32-wrover-b_with_easydriver_v4.4_with 28byj-48_step_motor_2022-02-12.png)
+![kapcsolási rajz](https://github.com/gabboraron/esp32_szorakozas/blob/main/28byj48_step_motor/Schematic_esp32-wrover-b_with_easydriver_v4.4_with%2028byj-48_step_motor_2022-02-12.png)
 
 [fájl EasyEDA](SCHLIB_ESP32-WROVER-B_2022-02-12.json)hoz
 
